@@ -1,3 +1,9 @@
-# Clone isntagram
+# Dio-desafio-Git/github:computer:
+</br>
+## Clone do instagram.
 
-<p align="center>Projeto desenvolvido para estudo do css flex box.</P>
+
+
+<p align="center">Clone  do instagram utilizando css flexbox .</p>
+
+
