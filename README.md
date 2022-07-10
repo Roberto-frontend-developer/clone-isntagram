@@ -1,6 +1,6 @@
 # Dio-desafio-Git/github:computer:
 </br>
-## Clone do instagram.
+<h1 align="center">Clone do instagram.</h1>
 
 
 
