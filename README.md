@@ -2,6 +2,11 @@
 </br>
 <h1 align="center">Clone do instagram.</h1>
 
+<img src="./img/Captura%20de%20tela%202023-06-26%20220205.png">
+<hr/>
+
+Um projeto de clone do Instagram. O objetivo é replicar a experiência de uso do Instagram em um ambiente próprio.
+
 
 
 <p align="center">
